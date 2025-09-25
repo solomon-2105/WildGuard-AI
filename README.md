@@ -29,4 +29,5 @@ WaterDrops 75
 Thunderstorm 75
 Squirrel 75
 
-collab-link: https://colab.research.google.com/drive/1H8s2tjGsVo7mjOussgU_2k47sKyJLZ9M?usp=sharing
+Preprocessing of data is done here : https://colab.research.google.com/drive/1IdfkG8Xzds6UV2RPyn-9vw4-uAtGBQo9?usp=sharing
+Model training is done here : https://colab.research.google.com/drive/1H8s2tjGsVo7mjOussgU_2k47sKyJLZ9M?usp=sharing

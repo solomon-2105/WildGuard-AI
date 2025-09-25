@@ -1,33 +1,45 @@
-# Environmental-sound-classification1
+# 🎶 Environmental Sound Classification
 
-classes and totol classes <br>
-Fire 75
-Gunshot 75
-WolfHowl 75
-Lion 75
-WingFlaping 75
-BirdChirping 75
-Frog 75
-Insect 75
-Clapping 75
-Footsteps 75
-Speaking 75
-Whistling 75
-WoodChop 75
-Firework 75
-Rain 75
-Handsaw 75
-Generator 75
-Chainsaw 75
-Axe 75
-VehicleEngine 75
-Helicopter 75
-TreeFalling 75
-Silence 75
-Wind 75
-WaterDrops 75
-Thunderstorm 75
-Squirrel 75
+This project focuses on classifying diverse **audio events** into **27 distinct categories**, with **75 samples per class**.  
+In total, the dataset contains:
 
-Preprocessing of data is done here : https://colab.research.google.com/drive/1IdfkG8Xzds6UV2RPyn-9vw4-uAtGBQo9?usp=sharing
-Model training is done here : https://colab.research.google.com/drive/1H8s2tjGsVo7mjOussgU_2k47sKyJLZ9M?usp=sharing
+## 📂 Classes
+
+- Fire  
+- Gunshot  
+- Wolf Howl  
+- Lion  
+- Wing Flapping  
+- Bird Chirping  
+- Frog  
+- Insect  
+- Clapping  
+- Footsteps  
+- Speaking  
+- Whistling  
+- Wood Chop  
+- Firework  
+- Rain  
+- Hand Saw  
+- Generator  
+- Chainsaw  
+- Axe  
+- Vehicle Engine  
+- Helicopter  
+- Tree Falling  
+- Silence  
+- Wind  
+- Water Drops  
+- Thunderstorm  
+- Squirrel  
+
+
+## ⚙️ Workflow
+
+1. **Data Preprocessing**  
+   🔗 [Open in Google Colab](https://colab.research.google.com/drive/1IdfkG8Xzds6UV2RPyn-9vw4-uAtGBQo9?usp=sharing)
+
+2. **Model Training**  
+   🔗 [Open in Google Colab](https://colab.research.google.com/drive/1H8s2tjGsVo7mjOussgU_2k47sKyJLZ9M?usp=sharing)
+
+---
